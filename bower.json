@@ -1,0 +1,14 @@
+{
+  "name": "live-balls",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Emre Can Hayıt <emrecan.hayit@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/EmreCanHayit/live-balls-mini-chat",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "semantic": "^2.4.1"
+  }
+}
